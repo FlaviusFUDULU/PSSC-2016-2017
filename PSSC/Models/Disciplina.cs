@@ -8,5 +8,9 @@ namespace Models
 {
     class Disciplina
     {
+        public Disciplina(/*name and identifier*/)
+        {
+            //constructor
+        }
     }
 }

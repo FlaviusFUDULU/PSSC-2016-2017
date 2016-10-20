@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    class StudentProfesor
+    class StudentProfesor:StudentID
     {
     }
 }

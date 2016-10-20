@@ -8,5 +8,10 @@ namespace Models
 {
     class StudentID
     {
+        //variables with student personal dates
+        public StudentID(/*student personal dates*/)
+        {
+            //constructor atribution
+        }
     }
 }
