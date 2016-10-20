@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    public class Class1
+    class StudentProfesor:StudentID
     {
-        //remove or alter this class, then implement your models.  
     }
 }
