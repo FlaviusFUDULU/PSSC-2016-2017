@@ -1,0 +1,3 @@
+Nu are rost sa va stresati ca nu am apucat sa fac nimic de ultima data.
+Din pacate am ramas pornit pe gandirea mea si am pierdut prea mult timp sa imi dau seama ce voia sa se faca in codul asta la care am dat merge.
+Promit ca o sa refac cumva pentru urmatoarea tema dar momentan m-am blocat... Probabil o sa refac eu dupa gandirea mea...
